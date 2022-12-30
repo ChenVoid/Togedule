@@ -1,5 +1,5 @@
 # Togedule
-It will be an enormous project, depicting the daily or staged schedules for the couples or groups, standing for making progress together.  
+It will be an enormous project, depicting the daily or staged schedules for the couples or groups, that serves for making progress together.  
 
 The project is intended to be developed by Vue and Java, corresponding to the front and rear ends respectively. Unfortunately, it's lightly to pick up Vue for me, while the complete Java Web developing system is still under my blind zone. Therefore, the author is still learning Java Web and coding it modestly and lazily, so the DDL is ambiguous. :(  
 
